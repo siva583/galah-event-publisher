@@ -1,6 +1,0 @@
-/Users/sgamall/eclipse-workspace-craftDemo/galah-event-producer/src/main/java/com/intuit/galah/model/User.java
-/Users/sgamall/eclipse-workspace-craftDemo/galah-event-producer/src/main/java/com/intuit/galah/config/KafkaProducerConfig.java
-/Users/sgamall/eclipse-workspace-craftDemo/galah-event-producer/src/main/java/com/intuit/galah/service/EventPublisherServiceImpl.java
-/Users/sgamall/eclipse-workspace-craftDemo/galah-event-producer/src/main/java/com/intuit/galah/iface/IEventPublisherService.java
-/Users/sgamall/eclipse-workspace-craftDemo/galah-event-producer/src/main/java/com/intuit/galah/model/Greeting.java
-/Users/sgamall/eclipse-workspace-craftDemo/galah-event-producer/src/main/java/com/intuit/galah/KafkaApplication.java
