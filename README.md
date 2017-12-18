@@ -7,7 +7,7 @@ This service helps consumers to publish messages to any topic. We need to make s
 This project is using spring-boot so no need to install local application server like tomcat to run this project.
 
 ```
-1. Clone git repository https://github.com/siva583/galah-event-consumer-cache.git
+1. Clone git repository https://github.com/siva583/galah-event-publisher.git
 2. Import project as maven project
 3. Run project using "mvn spring-boot:run" command or run GalahEventPublisherApplication.java class as Java Application.
 4. Great, now you are ready to play with service. Type http://localhost:8090/swagger-ui.htmlin browser and start playing with service. 
